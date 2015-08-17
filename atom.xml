@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Test Blog]]></title>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2015-08-17T11:41:01-04:00</updated>
+  <id>/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[]]></email>
+  </author>
+  <generator uri="http://www.statiked.com/">Statiked</generator>
+
+  <entry>
+    <title type="html"><![CDATA[Test Blog]]></title>
+    <link href="/2015/08/17/Test-Blog.html"/>
+    <updated>2015-08-17T15:41:49+00:00</updated>
+    <id>/2015/08/17/Test-Blog.html</id>
+    <content type="html"><![CDATA[<p>The blog is up and running. This is the post</p>
+]]></content>
+  </entry>
+
+  
+</feed>
