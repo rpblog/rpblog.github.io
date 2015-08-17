@@ -13,6 +13,14 @@
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
   <entry>
+    <title type="html"><![CDATA[Second post]]></title>
+    <link href="/2015/08/17/Second-post.html"/>
+    <updated>2015-08-17T15:45:50+00:00</updated>
+    <id>/2015/08/17/Second-post.html</id>
+    <content type="html"><![CDATA[<p>Publishing individual post</p>
+]]></content>
+  </entry>
+<entry>
     <title type="html"><![CDATA[Test Blog]]></title>
     <link href="/2015/08/17/Test-Blog.html"/>
     <updated>2015-08-17T15:41:49+00:00</updated>

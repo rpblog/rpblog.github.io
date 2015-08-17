@@ -80,79 +80,16 @@
     
         </header>
         
-
 <div class="main clearfix">
-    <section class="container" id="posts">
-        
-        <div class="left-container">
-      					<article class="list clearfix">
-          					<h3><a href = "/2015/08/17/Second-post.html">Second post</a></h3>
-         					<span class="by">Posted on 17 Aug 2015.</span>
-        					<p><p>Publishing individual post</p>
-</p>
-        
-        
-    						<div class="socialbar">
-		                    <div class="clearfix"></div>
-			                    <ul>
-			                        <li>
-			                        
-			                        </li>
-			                        <li><i class="icon-comment"></i> <span>
-                                        <a href="/2015/08/17/Second-post.html#disqus_thread">Second post</a>
-		                                <fb:comments-count href=/2015/08/17/Second-post.html></fb:comments-count>
-                                            <div class="g-commentcount" data-href="/2015/08/17/Second-post.html"></div>
-                                    </span></li>
-			                        <li class="push-right">
-			                            <a href="https://twitter.com/intent/tweet?text=/2015/08/17/Second-post.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-twitter-circled"></i></a>
-                                        <a href="http://www.facebook.com/share.php?u=/2015/08/17/Second-post.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-facebook-circled"></i></a>
-                                        <a href="https://plus.google.com/share?url=/2015/08/17/Second-post.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-gplus-circled"></i></a>
-			                        </li>
-			                    </ul>
-                			</div>    
-      					</article>
-<article class="list clearfix">
-          			<h3><a href = "/2015/08/17/Test-Blog.html">Test Blog</a></h3>
-         			<span class="by">Posted on 17 Aug 2015.</span>
-        			<p><p>The blog is up and running. This is the post</p>
-</p>
-        
-        
-    				<div class="socialbar">
-                    <div class="clearfix"></div>
-	                    <ul>
-	                        <li>
-	                        
-	                        </li>
-	                        <li><i class="icon-comment"></i> <span> <a href="/2015/08/17/Test-Blog.html#disqus_thread">Test Blog</a>
-                                <fb:comments-count href=/2015/08/17/Test-Blog.html></fb:comments-count>
-                                    <div class="g-commentcount" data-href="/2015/08/17/Test-Blog.html"></div> </span></li>
-	                        <li class="push-right">
-	                            <a href="https://twitter.com/intent/tweet?text=/2015/08/17/Test-Blog.html" onclick="javascript:window.open(this.href,
-                                    '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-twitter-circled"></i></a>
-                                <a href="http://www.facebook.com/share.php?u=/2015/08/17/Test-Blog.html" onclick="javascript:window.open(this.href,
-                                    '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-facebook-circled"></i></a>
-                                <a href="https://plus.google.com/share?url=/2015/08/17/Test-Blog.html" onclick="javascript:window.open(this.href,
-                                    '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-gplus-circled"></i></a>
-	                        </li>
-	                    </ul>
-                	</div>    
-      			</article>
-
-
-	      	<div class="socialbar">
-	            <div class="clearfix"></div>
-	                <ul>
-	                	
-	                    
-	                </ul>
-	            </div>
-	        </div>  
-	        
-
+	<section class="container" id="posts">
+		<div class="left-container">
+	  		<article class="list clearfix">
+	  			<h3></h3>
+				<p><p>Here goes the about content.</p>
+</p>    
+	  		</article>
+		</div>
+			
 
 <div class="right-container">
           <div class="right-col">
